@@ -1,44 +1,32 @@
 /*  your css code here. If applicable */
-table {
-    border: 1px solid rgb(0,0,0);
-    margin: 1px;
-    padding: 1px;
-    width: 100%;
-  }
-  .middle {
+.middle{
+    margin: auto;
+    width: 60%;
+}
+
+.center{
     text-align: center;
-    vertical-align: middle;
-    border: 1px solid rgb(0,0,0);
-  }
-  .green {
+}
+
+.right{
+    text-align: right;
+}
+
+table{
+    border: 1px solid black;
+    border-spacing: 1px;
+}
+
+td{
+    padding: 1px;
+    border: 1px solid black;
+}
+
+.green{
     background-color: green;
-    color: green;
-    border: 1px solid rgb(0,0,0);
-  
-  }
-  .blue {
+}
+
+.blue{
     background-color: blue;
-    color: blue;
-    border: 1px solid rgb(0,0,0);  
-  }
-  
-  .table-1{
-    height: 30px; 
-    border: 1px solid rgb(0,0,0);
-  }
-.t11,
-.t12,
-.t13,
-.t14,
-.t15,
-.t16,
-.t17,
-.t18,
-.t19,
-.t21,
-.t22,
-.t23,
-.t24,
-.t-image {
-  border: 1px solid rgb(0, 0, 0);
+	
 }
