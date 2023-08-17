@@ -26,6 +26,19 @@ table {
     height: 30px; 
     border: 1px solid rgb(0,0,0);
   }
- .t11 {
-    border: 1px solid rgb(0,0,0); /* Use solid border instead of inset */
-  } 
+ .t11,
+.t12,
+.t13,
+.t14,
+.t15,
+.t16,
+.t17,
+.t18,
+.t19,
+.t21,
+.t22,
+.t23,
+.t24,
+.t-image {
+  border: 1px solid rgb(0, 0, 0);
+}
